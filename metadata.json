@@ -1,0 +1,5 @@
+{
+  "name": "Echo Map",
+  "description": "让数据成为集体情感的见证，时刻提醒大家：你并不孤独。",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
